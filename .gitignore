@@ -1,0 +1,3 @@
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
